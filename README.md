@@ -1,5 +1,3 @@
-# README.md
-
 # 🖋️ Handwritten Digit Recognition using CNNs & Tkinter
 
 This project is a simple yet powerful **handwritten digit recognition system** that combines deep learning (CNNs) with a **Tkinter GUI app**. You can draw digits on a canvas, and the system predicts the digit in real-time.
