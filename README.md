@@ -15,22 +15,6 @@ It was an exciting project where I built the machine learning model, trained it 
 
 ---
 
-## 📂 Project Structure
-```text
-handwritten-digit-recognition/
-├── digit_recognition_model.h5      # Trained CNN model
-├── digit_gui_app.py                # Tkinter GUI app
-├── train_model.py                  # Model training script
-├── requirements.txt                # Python dependencies
-├── README.md                       # Project documentation
-└── assets/
-    ├── screenshot.png              # App screenshot
-    ├── demo.gif                    # GIF demo
-    └── Handwritten_Digit_Recognition_Title.png  # Project banner
-```
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
