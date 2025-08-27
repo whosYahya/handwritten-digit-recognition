@@ -66,7 +66,7 @@ python digit_gui_app.py
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
