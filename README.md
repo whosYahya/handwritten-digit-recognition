@@ -57,6 +57,15 @@ python digit_gui_app.py
 
 ---
 
+## 🔮 Future Improvements
+
+- Deploy as a web app using Streamlit or Flask
+- Try transfer learning with more complex datasets
+- Extend to recognize handwritten letters (A–Z)
+- Build a mobile app interface
+
+---
+
 ## 📚 Acknowledgements
 - [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
 - TensorFlow and Keras for deep learning framework.
