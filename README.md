@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ### 3. (Optional) Train the Model
 If you want to retrain the model:
 ```bash
-python train_model.py
+python model.py
 ```
 
 ### 4. Run the App
